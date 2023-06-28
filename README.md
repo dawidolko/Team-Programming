@@ -14,7 +14,7 @@ Team-Programming to repozytorium dedykowane programowaniu zespołowemu. Znajdzie
 
 Sklonuj repozytorium na swój lokalny komputer:
 ```
-git clone https://github.com/twojenazwauzytkownika/Team-Programming.git
+git clone https://github.com/dawidolko/Team-Programming.git
 ```
 
 Przeglądaj dostępne projekty, skrypty i materiały w odpowiednich folderach.
