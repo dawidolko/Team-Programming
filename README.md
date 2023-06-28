@@ -1,31 +1,30 @@
 # Team-Programming
 
-## **Opis:**
-Team-Programming to repozytorium dedykowane programowaniu zespołowemu. Znajdziesz tutaj przykładowe projekty, skrypty i materiały edukacyjne związane z tworzeniem oprogramowania we współpracy zespołowej.
+## **Description:**
+Team-Programming is a repository dedicated to team programming. Here you will find sample projects, scripts and educational materials related to collaborative software development.
 
-## **Struktura Repozytorium:**
-/Projects: Ten folder zawiera różne projekty, w których wykorzystuje się programowanie zespołowe. Każdy projekt posiada swój własny folder z opisem i kodem źródłowym.
+## **Repository Structure:**
+/Projects: This folder contains various projects that use collaborative development. Each project has its own folder with description and source code.
 
-/Lab: W tym folderze znajdują się przydatne skrypty i narzędzia programistyczne, które mogą ułatwić pracę nad programowaniem zespołowym.
+/Lab: This folder contains useful scripts and development tools that can make your team development work easier.
 
-/Courses: Tutaj znajdują się różnego rodzaju materiały edukacyjne, takie jak prezentacje, tutoriale, dokumentacja i artykuły związane z programowaniem zespołowym.
+/Courses: This is where all sorts of educational materials such as presentations, tutorials, documentation, and articles related to team programming are located.
 
-## **Jak zacząć:**
+## **How ​​to start:**
 
-Sklonuj repozytorium na swój lokalny komputer:
+Clone the repository to your local computer:
 ```
 git clone https://github.com/dawidolko/Team-Programming.git
 ```
 
-Przeglądaj dostępne projekty, skrypty i materiały w odpowiednich folderach.
+Browse available projects, scripts and materials in their respective folders.
 
-Pracuj z zespołem, dzieląc się kodem źródłowym i współpracując w celu tworzenia oprogramowania.
+Work with your team by sharing source code and collaborating to build software.
 
-## **Wymagania systemowe**
-Aby rozpocząć programowanie zespołowe, będziesz potrzebować odpowiednich narzędzi do zarządzania projektem i współpracy, takich jak Git, systemy śledzenia błędów i platformy do udostępniania kodu. Upewnij się, że masz zainstalowane wymagane narzędzia.
+## **System requirements**
+To get started with collaborative development, you'll need the right project management and collaboration tools like Git, bug tracking systems, and code sharing platforms. Make sure you have the required tools installed.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty związane z programowaniem zespołowym. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests, or share your own collaborative development projects. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, skontaktuj się ze mną poprzez e-mail lub przez platformę GitHub.
-
+If you have any questions or need help, please contact me via email or GitHub.
