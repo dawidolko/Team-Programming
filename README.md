@@ -8,8 +8,6 @@ Team-Programming is a repository dedicated to team programming. Here you will fi
 
 /Lab: This folder contains useful scripts and development tools that can make your team development work easier.
 
-/Courses: This is where all sorts of educational materials such as presentations, tutorials, documentation, and articles related to team programming are located.
-
 ## **How ​​to start:**
 
 Clone the repository to your local computer:
